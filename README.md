@@ -23,3 +23,5 @@ This database includes tables for;
 - Medical Laboratory Tech
 - Pharmacy Tech
 - Public Health.
+
+C:\Users\USER\Desktop\Jessica's CV.jfif
