@@ -24,4 +24,6 @@ This database includes tables for;
 - Pharmacy Tech
 - Public Health.
 
-C:\Users\USER\Desktop\Jessica's CV.jfif
+#### Below is the database diagram for the School of Health Database.
+
+![School of Health(Database Diagram)](https://user-images.githubusercontent.com/90056014/218274425-7e800645-decc-42cd-96ea-13323ec16efd.png)
