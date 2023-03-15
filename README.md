@@ -1,7 +1,7 @@
 # School-of-Health
 This is a simple student, employee, department (administrative, academics and operational) database created for a typical Nigerian School of Health offering National Diploma Certificate and Higher National Diploma Certificate.
 
-After completing my National Youth Service (NYSC) were my Place of Primary Assignment (PPA) was a school of health tech. I decided to create what could be a simple hypothetical database for a Nigerian School of Health, with the following major functioning acardemic departments:
+After completing my National Youth Service (NYSC) where my Place of Primary Assignment (PPA) was a school of health tech. I decided to create what could be a simple hypothetical database for a Nigerian School of Health to replicate the depatartmental architectture of my PPA, with the following major functioning/accredited acardemic departments:
 - Department of Community Health
 - Department of Health Information Management
 - Department of Medical Laboratory Tech
